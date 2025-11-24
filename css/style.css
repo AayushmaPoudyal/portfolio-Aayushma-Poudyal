@@ -1,11 +1,9 @@
-/* RESET */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* GLOBAL */
 body {
     font-family: "Inter", Arial, sans-serif;
     background: #e9ecf2;
@@ -13,14 +11,12 @@ body {
     padding: 0;
 }
 
-/* MAX WIDTH CONTAINER */
 main {
     max-width: 1200px;
     margin: auto;
     padding: 40px 20px;
 }
 
-/* HERO HEADER */
 header {
     text-align: center;
     padding: 120px 20px;
@@ -78,7 +74,6 @@ section h2 {
     font-weight: 700;
 }
 
-/* ABOUT SECTION */
 #about {
     background: #ffffff80;
     padding: 40px;
@@ -92,7 +87,6 @@ section h2 {
     margin-right: auto;
 }
 
-/* PROJECTS GRID */
 #projects {
     margin-bottom: 70px;
 }
@@ -122,7 +116,6 @@ section h2 {
     margin-bottom: 15px;
 }
 
-/* CONTACT FORM */
 #contact form {
     background: #ffffff80;
     padding: 40px;
@@ -161,7 +154,6 @@ button:hover {
     background: #444;
 }
 
-/* FOOTER */
 footer {
     text-align: center;
     padding: 40px 20px;
@@ -170,4 +162,5 @@ footer {
     border-top: 1px solid #d7dbe0;
     margin-top: 60px;
 }
+
 
